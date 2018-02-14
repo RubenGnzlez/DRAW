@@ -1,0 +1,21 @@
+{
+  "name": "2ene",
+  "version": "1.0.0",
+  "description": "Prueba de la clase de apWeb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fing",
+    "draw",
+    "is",
+    "uach"
+  ],
+  "author": "Ruben",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^2.5.3",
+    "nodemon": "^1.14.12"
+  }
+}
